@@ -12,20 +12,37 @@ To ease learners to understand machine learning, linear regression has been used
 ## Linear Regression
 [A Walk Through on How to Design Your Own Pairs Trading Using Linear Model](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Pairs_Trading_and_Linear_Regression.ipynb)
 
-[Notebook introduction linear regression and machine learning model building process](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Linear%20Regression.ipynb)
+[Notebook - Introduction to Linear Regression and Machine Learning Model Building Process](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Linear%20Regression.ipynb)
 
 ## Moving to Backtest
 
-### Statsmodel
+### Statsmodel - Linear Regression
 [Quantopian IDE codes for Pairs Trading using Linear Regression Model - statsmodel Pre 2008](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Pairs%20Trading%20statsmodels%20Linear%20Pre%202008.py) and [Quantopian IDE codes for Pairs Trading using Linear Regression Model - statsmodel Post 2008](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Pairs%20Trading%20statsmodels%20Linear%20Post%202008.py)
 
 This backtest utilise Python statsmodel to build the linear regression model. We then move on to illustrate how one can use the Python scikit-learn model to do likewise.
 
-### scikit-learn
+### scikit-learn - Linear Regression
 [Quantopian IDE codes for Pairs Trading using Linear Regression Model - scikit-learn](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Pairs%20Trading%20scikit-learn%20Linear.py)
+
+### scikit-learn - Lasso Regression
+[Lasso Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Pairs%20Trading%20-%20Elastic%20Net.py)
+(https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Pairs%20Trading%20-%20Lasso%20Regression.py)
+
+### scikit-learn - Ridge Regression
+[Ridge Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Pairs%20Trading%20-%20Ridge%20Regression.py)
+
+### scikit-learn - Bayesian Ridge Regression
+[Bayesian Ridge Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Pairs%20Trading%20-%20Bayesian%20Ridge%20Regression.py)
+
+### scikit-learn - ElasticNet Regression
+[ElasticNet Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Pairs%20Trading%20-%20Elastic%20Net.py)
+
+
 
 ## Kalman Filter
 [Pairs Trading Design with Kalman Filter](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Pairs_Trading_with_Linear_Regression_and_Kalman_Filter.ipynb)
+
+
 
 ## Trend Following
 
