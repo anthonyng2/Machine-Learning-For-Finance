@@ -28,8 +28,7 @@ This backtest utilise Python statsmodel to build the linear regression model. We
 [Quantopian IDE codes for Pairs Trading using Linear Regression Model - scikit-learn](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/Pairs%20Trading%20scikit-learn%20Linear.py)
 
 ### scikit-learn - Lasso Regression
-[Lasso Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Pairs%20Trading%20-%20Elastic%20Net.py)
-(https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/Pairs%20Trading%20-%20Lasso%20Regression.py)
+[Lasso Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/Pairs%20Trading%20-%20Lasso%20Regression.py)
 
 ### scikit-learn - Ridge Regression
 [Ridge Regression](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/Pairs%20Trading%20-%20Ridge%20Regression.py)
