@@ -14,7 +14,7 @@ To ease learners to understand machine learning, linear regression has been used
 
 [Notebook - Introduction to Linear Regression and Machine Learning Model Building Process](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/Linear%20Regression.ipynb)
 
-## Moving to Backtest
+## Moving to Backtesting
 
 ### Statsmodel - Linear Regression
 [Quantopian IDE codes for Pairs Trading using Linear Regression Model - statsmodel Pre 2008](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/Pairs%20Trading%20statsmodels%20Linear%20Pre%202008.py) and [Quantopian IDE codes for Pairs Trading using Linear Regression Model - statsmodel Post 2008](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/Pairs%20Trading%20statsmodels%20Linear%20Post%202008.py)
