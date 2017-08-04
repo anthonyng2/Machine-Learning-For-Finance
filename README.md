@@ -1,5 +1,6 @@
 # Machine Learning For Finance
-# Machine Learning for finance and investment
+
+# 1. Regression Based Machine Learning for Algorithmic Trading
 
 [Machine Learning for Finance, Algorithmic Trading and Investing Slides](https://github.com/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/Machine%20Learning%20-%20Linear%20Regression%20for%20Algo%20Trading%20v2017-07-13.pdf)
 
@@ -7,7 +8,9 @@ These set of slides explained the current asset management environment and the a
 
 To ease learners to understand machine learning, linear regression has been used as the conduit. Firstly, the shortcoming of linear regression is highlighted. We then follow by the steps of model building and covering concepts such as hyperparameters, cross-validation, model validation, bias-variance tradeoff. The 6 stages of professional quant strategy is also covered to provide some perspective on where machine learning fits in.
 
-# Pairs Trading Design
+
+
+# 1.1 Pairs Trading & Machine Learning
 
 ## Linear Regression
 [A Walk Through on How to Design Your Own Pairs Trading Using Linear Model](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/Pairs_Trading_and_Linear_Regression.ipynb)
@@ -39,16 +42,18 @@ This backtest utilise Python statsmodel to build the linear regression model. We
 
 
 
-## Kalman Filter
+# 1.2 Pairs Trading and Kalman Filter
 [Pairs Trading Design with Kalman Filter](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/Pairs_Trading_with_Linear_Regression_and_Kalman_Filter.ipynb)
 
 
 
-## Trend Following
+# 1.3 Trend Following & Machine Learning
 
 [Trend Following Strategies with Machine Learning](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/Trend_Following_Strategies_Penalized_Regression_Approach.ipynb)
 
-# References:
+
+
+# 1.4 References:
 [UCL - Characterization of Financial Time Series](https://github.com/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/RN_11_01.pdf)
 
 [Empirical Properties of Asset Returns: Stylized Facts and Statistical Issues. Rama Cont](https://github.com/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/empirical%20properties%20of%20asset%20returns.pdf)
