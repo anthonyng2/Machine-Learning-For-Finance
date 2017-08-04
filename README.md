@@ -56,3 +56,15 @@ This backtest utilise Python statsmodel to build the linear regression model. We
 [UCL - Characterization of Financial Time Series](https://github.com/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/RN_11_01.pdf)
 
 [Empirical Properties of Asset Returns: Stylized Facts and Statistical Issues. Rama Cont](https://github.com/anthonyng2/Machine-Learning-For-Finance/blob/master/Regression%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/empirical%20properties%20of%20asset%20returns.pdf)
+
+
+
+
+
+# 2. Classification Based Machine Learning for Algorithmic Trading
+
+This portion is under active development at the moment. I have uploaded some of my codes and backtesting results. A common use of classification ML is to predict the next day's result. You can find some examples [here](https://www.quantstart.com/articles/Forecasting-Financial-Time-Series-Part-1). Some of the ML classification methods were capable of achieving prediction accuracy of pver 60%. Does that translate directly to returns and out-performance over simple buy-and-hold strategy? Check out the backtesting tearsheets for the answer. 
+
+
+
+
